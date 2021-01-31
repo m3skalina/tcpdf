@@ -1,6 +1,6 @@
 {
     "name": "m3skalina/tcpdf",
-    "version": "6.2.26",
+    "version": "1.0.0",
     "homepage": "http://www.tcpdf.org/",
     "type": "library",
     "description": "TCPDF is a PHP class for generating PDF documents and barcodes.",
