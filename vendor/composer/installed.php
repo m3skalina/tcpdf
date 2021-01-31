@@ -1,24 +1,24 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '6.2.26',
-    'version' => '6.2.26.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
-    'name' => 'tecnickcom/tcpdf',
+    'reference' => '06f06d1e91238af63165f0850532dd563fc2c9f4',
+    'name' => 'm3skalina/tcpdf',
   ),
   'versions' => 
   array (
-    'tecnickcom/tcpdf' => 
+    'm3skalina/tcpdf' => 
     array (
-      'pretty_version' => '6.2.26',
-      'version' => '6.2.26.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '06f06d1e91238af63165f0850532dd563fc2c9f4',
     ),
   ),
 );
